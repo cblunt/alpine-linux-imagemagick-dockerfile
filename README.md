@@ -1,6 +1,6 @@
 # alpine-linux-imagemagick-dockerfile
 
-This is a basic alpine-linux image with imagemagick installed. The image is used in the Rails on Docker course.
+This is a basic alpine-linux image with imagemagick installed. The image is used in the [Rails on Docker](https://railsondocker.com) course.
 
 ## Usage
 
